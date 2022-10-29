@@ -16,12 +16,12 @@ Based on the data provided:
 ## Summary
 
 PH needs to prepare for the Silver Tsunami! 30.2% (72,458) of PH's active employee population (240,124) will reach retirement age shortly. See Figures 1 and 2. 
-![Figure 1]
-![Figure 2]
+![Figure 1](Pewlett_Hackard_Analysis_Folder/Challenge/images/Eligible_Retirees.png "Eligible Retiree Count")
+![Figure 2](Pewlett_Hackard_Analysis_Folder/Challenge/images/Active_Employees.png "Active Employee Count")
 Of these eligible retirees, over 70% are in senior staff/engineering positions, while the remaining ~30% are in lower-level positions. See Figure 3.
-![Figure 3]
+![Figure 3](Pewlett_Hackard_Analysis_Folder/Challenge/images/retiring_titles.png "Count of Retiring Titles")
 
 Based on the current requirements for the mentorship program, which caters to active employees born in 1965, only 1,549 employees were identified. See Figure 4 for the number of eligible mentees in each position.
-![Figure 4]
+![Figure 4](Pewlett_Hackard_Analysis_Folder/Challenge/images/mentorship_eligibility_count.png "Count of Eligible Mentees")
 
 Based on this query, 738 eligible mentees are already in senior staff/engineering positions, leaving at least 811 employees that need to be funneled into the mentorship program. Given the 50,000+ senior staff/engineers eligible for retirement, we recommend opening the mentorship program to a larger number of younger individuals to fill the gaps that the Silver Tsunami will inevitably leave.
